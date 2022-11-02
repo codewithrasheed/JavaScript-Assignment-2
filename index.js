@@ -18,7 +18,7 @@
 // console.log("Total Obtained Marks", total);
 // console.log("Total Marks: 600")
 // var percentage = total / 600 * 100;
-// console.log("Percentage:", percentage"%");
+// console.log("Percentage:", percentage + "%");
 
 // if(percentage >= 80 && percentage <= 100){
 //     console.log("Congrats! you have secured: A+ Grade");
